@@ -1,0 +1,4 @@
+transformers==4.56.0
+safetensors==0.5.3
+numpy==1.26.4
+Pillow==9.5.0
